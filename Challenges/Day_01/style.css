@@ -37,7 +37,7 @@ body{
 }
 
 .box:hover > .text {
-  width: 300px;
+  width: 100px;
   padding: 0 7px;
 }
   
